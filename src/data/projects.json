@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Food Delivery Web App",
+      "imageSrc": "projects/foodapp.png",
+      "description": "A user-friendly food delivery web application developed using the MERN stack (MongoDB, ExpressJS, ReactJS, and NodeJS) that allows users to create and modify profiles, and order food from various restaurants.",
+      "skills": ["React.js", "Express.js", "Node.js","MongoDB"],
+      "demo": "https://youtu.be/nseA0t8eNdk?si=SiW4qWx8_CddBPnJ",
+      "source": "https://github.com/drew0310/Food-Delivery-App"
+    },
+    {
+      "title": "News Video Ticker Text to Audio Conversion System",
+      "imageSrc": "projects/newsticker.png",
+      "description": "A system developed using computer vision, OCR and text-to-speech (TTS) techniques in Python to convert scrolling news ticker text in live English news video streams into clear and smooth audio in real-time.",
+      "skills": ["Computer Vision", "OpenCV", "Tesseract OCR", "PyTTS"],
+      "demo": "https://drive.google.com/file/d/1D9ORFtMuZI2UsmkdpCJmNhrK1_0bsq1c/view?usp=sharing",
+      "source": "https://github.com/drew0310/Audio-Synthesis-from-News-Video-Ticker-Text"
+    },
+    {
+        "title": "Card-Matching Memory Game ",
+        "imageSrc": "projects/cardmatch.png",
+        "description": "A single player card-matching game developed using HTML, CSS and JavaScript with three difficulty levels that tests your memory skills.",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "demo": "https://drew0310.github.io/Card-Memory-Game/",
+        "source": "https://github.com/drew0310/Card-Memory-Game"
+    },
+    {
+      "title": "Comic Generation Application",
+      "imageSrc": "projects/comic.png",
+      "description": "An application designed using Python, GPT-3 and DALL-E APIs to help users create their own comic image stories by providing the premise of the plot and a set of plot keywords as input.",
+      "skills": ["Python", "GPT-3", "DALL-E","HTML","CSS"],
+      "demo": "https://docs.google.com/document/d/1bGRDy8UlAJjIG-oyynMh2zipW9egGSNiWXpd53oKoM4/edit?usp=sharing",
+      "source": "https://github.com/drew0310/KGB-Comic-Generator"
+    },
+    {
+        "title": "Brick-Breaker Ball Game",
+        "imageSrc": "projects/brickbreaker.png",
+        "description": "A classic single player game developed using core Java and Java Swing techniques with a simple user interface where the objective is to break a setup of bricks using a bouncing ball and a paddle that can be moved using arrow keys.",
+        "skills": ["Core Java", "OOPS", "Java Swing"],
+        "demo": "https://drive.google.com/file/d/1DnWC8m6z8ZV3iQn3GNrJ3GoHLb2o0MDp/view?usp=sharing",
+        "source": "https://github.com/drew0310/Java-project"
+    }
+
+]

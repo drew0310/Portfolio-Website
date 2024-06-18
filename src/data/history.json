@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Development Engineer Intern",
+      "organisation": "Comcast, Chennai (On-site)",
+      "startDate": "Jan 2024",
+      "endDate": "Present",
+      "experiences": ["Gained valuable insights and knowledge of our agile team's work in providing content management services to popular OTT video and cable platforms like OSN, Paramount+, Deutsche Telekom etc.", "Attended training and worked on projects involving Spring framework, Springboot, Docker, Kubernetes, AWS etc.", "Actively participated in team scrum meetings, sprint planning sessions, deployment procedures and tech connect sessions"],
+      "imageSrc": "history/comcast.png"
+    },
+    {
+      "role": "Web Developer Intern",
+      "organisation": "WebStack Academy, Bengaluru (Remote)",
+      "startDate": "Aug 2023",
+      "endDate": "Sep 2023",
+      "experiences": ["Gained fundamental conceptual knowledge on full stack web development and its related technologies such as HTML, CSS, JavaScript, Node.js, React.js etc.", "Designed and developed a user-friendly food delivery web application from scratch using the MERN technology stack"],
+      "imageSrc": "history/WSA.png"
+    }
+  ]

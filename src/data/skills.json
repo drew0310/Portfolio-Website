@@ -1,0 +1,46 @@
+[
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/c.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React.js",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node.js",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "Microsoft Office",
+        "imageSrc": "skills/msoffice.png"
+    }
+  ]
