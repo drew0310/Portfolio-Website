@@ -16,6 +16,13 @@
       "source": "https://github.com/drew0310/Audio-Synthesis-from-News-Video-Ticker-Text"
     },
     {
+      "title": "Video Content Engagement - Data Service (RESTful API)",
+      "imageSrc": "projects/restapi.png",
+      "description": "A model implementation of a video content engagement data service for OTT clients, that consists of a RESTful API capable of performing CRUD operations from HTTP requests, using Spring Boot (a back-end Java framework).",
+      "skills": ["Spring Framework", "Spring Boot", "MySQL", "JPA & Hibernate", "Unit Testing", "Docker", "Kubernetes"],
+      "source": "https://github.com/drew0310/Spring-Boot-Application" 
+    },
+    {
         "title": "Card-Matching Memory Game ",
         "imageSrc": "projects/cardmatch.png",
         "description": "A single player card-matching game developed using HTML, CSS and JavaScript with three difficulty levels that tests your memory skills.",
