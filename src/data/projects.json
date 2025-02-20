@@ -26,7 +26,7 @@
       "title": "Event Tracking Web App",
       "imageSrc": "projects/eventapp.png",
       "description": "A web application created using MongoDB, Java and JavaScript based frameworks to create, keep track and maintain a schedule of events and tasks (personal, professional, travel etc.).",
-      "skills": ["React.js", "Spring Boot", "MongoDB Atlas", "Spring Data MongoDB", "Axios"],
+      "skills": ["React.js", "Spring Boot", "MongoDB Atlas", "Spring Data MongoDB", "Axios", "REST APIs"],
       "demo": "https://planifyevent.netlify.app/",
       "source": "https://github.com/drew0310/Event-Tracking-App" 
     },
