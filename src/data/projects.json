@@ -23,6 +23,14 @@
       "source": "https://github.com/drew0310/Spring-Boot-Application" 
     },
     {
+      "title": "Event Tracking Web App",
+      "imageSrc": "projects/eventapp.png",
+      "description": "A web application created using MongoDB, Java and JavaScript based frameworks to create, keep track and maintain a schedule of events and tasks (personal, professional, travel etc.).",
+      "skills": ["React.js", "Spring Boot", "MongoDB Atlas", "Spring Data MongoDB", "Axios"],
+      "demo": "https://planifyevent.netlify.app/",
+      "source": "https://github.com/drew0310/Event-Tracking-App" 
+    },
+    {
         "title": "Card-Matching Memory Game ",
         "imageSrc": "projects/cardmatch.png",
         "description": "A single player card-matching game developed using HTML, CSS and JavaScript with three difficulty levels that tests your memory skills.",
