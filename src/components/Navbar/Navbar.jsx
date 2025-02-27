@@ -13,6 +13,7 @@ export const Navbar = () => {
                 <li><a href="#about">About</a></li>
                 <li><a href="#experience">Experience</a></li>
                 <li><a href="#projects">Projects</a></li>
+                <li><a href='https://github.com/drew0310/resume/blob/7fa82ea868d2ce4108fdade455465a6a18ea6a22/Aravind_personal_Resume.pdf'>Resume</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </div>
