@@ -24,12 +24,20 @@
       "imageSrc": "skills/css.png"
     },
     {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
       "title": "React.js",
       "imageSrc": "skills/react.png"
     },
     {
       "title": "Node.js",
       "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Spring Boot",
+      "imageSrc": "skills/springboot.png"
     },
     {
       "title": "MySQL",
@@ -40,7 +48,12 @@
       "imageSrc": "skills/mongodb.png"
     },
     {
-        "title": "Microsoft Office",
-        "imageSrc": "skills/msoffice.png"
+      "title": "Microsoft Office",
+      "imageSrc": "skills/msoffice.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
     }
-  ]
+  
+]
