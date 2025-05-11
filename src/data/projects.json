@@ -31,6 +31,14 @@
       "source": "https://github.com/drew0310/Event-Tracking-App" 
     },
     {
+      "title": "Movie Information and Review Website",
+      "imageSrc": "projects/movie.png",
+      "description": "A movie discovery website that allows users to search for movies, view detailed movie information, watch trailers, and post reviews and ratings. The website is powered by React for the front-end and FastAPI for the back-end, with movie data sourced through web scraping from TMDb website and stored in MongoDB.",
+      "skills": ["React.js", "FastAPI", "MongoDB Atlas", "BeautifulSoup", "Web Scraping"],
+      "demo": "https://cineflx.netlify.app/",
+      "source": "https://github.com/drew0310/Movie-Website" 
+    },
+    {
         "title": "Card-Matching Memory Game ",
         "imageSrc": "projects/cardmatch.png",
         "description": "A single player card-matching game developed using HTML, CSS and JavaScript with three difficulty levels that tests your memory skills.",
